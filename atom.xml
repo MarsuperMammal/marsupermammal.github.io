@@ -4,7 +4,7 @@
   <title><![CDATA[Ornery Orations of Ornithorhynchus]]></title>
   <link href="http://marsupermammal.github.io/atom.xml" rel="self"/>
   <link href="http://marsupermammal.github.io/"/>
-  <updated>2015-05-17T23:00:37-04:00</updated>
+  <updated>2015-05-18T08:21:15-04:00</updated>
   <id>http://marsupermammal.github.io/</id>
   <author>
     <name><![CDATA[Phil Watts]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[$git init blog: What's in a name]]></title>
+    <title type="html"><![CDATA[$git Init Blog: What's in a Name]]></title>
     <link href="http://marsupermammal.github.io/blog/2015/05/17/git-init-blog-whats-in-a-name/"/>
     <updated>2015-05-17T20:59:15-04:00</updated>
     <id>http://marsupermammal.github.io/blog/2015/05/17/git-init-blog-whats-in-a-name</id>
