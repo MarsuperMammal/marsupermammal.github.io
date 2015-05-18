@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Ornery Orations of Ornithorhynchus]]></title>
   <link href="http://marsupermammal.github.io/atom.xml" rel="self"/>
   <link href="http://marsupermammal.github.io/"/>
-  <updated>2015-05-17T19:01:14-04:00</updated>
+  <updated>2015-05-17T22:53:29-04:00</updated>
   <id>http://marsupermammal.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Phil Watts]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[# git init blog: What's in a name]]></title>
+    <link href="http://marsupermammal.github.io/blog/2015/05/17/git-init-blog-whats-in-a-name/"/>
+    <updated>2015-05-17T20:59:15-04:00</updated>
+    <id>http://marsupermammal.github.io/blog/2015/05/17/git-init-blog-whats-in-a-name</id>
+    <content type="html"><![CDATA[<h1>Disclaiming your irritating with my tangents:</h1>
+
+<p>I consider it a fair assumption that anyone who has found themselves in a position to be reading this, has likely been led here by the influence of hearing me speak perviously, or recommendation of someone who has. Because of that, I am comfortable exposing you to the rambling nature of my thoughts.</p>
+
+<h1>The Interrogative Particles:</h1>
+
+<p>Who: In short, no one of consequence. Historically I&rsquo;ve worked as a systems administrator and professional services engineer. Early on I learned that my job had little to nothing to do with what I already knew, and considerably more to do with how I reacted to discovering more things I did not know.</p>
+
+<h2>Anthropomorphizing One&rsquo;s self:</h2>
+
+<h3>The engineer&rsquo;s inner struggle between humility and arrogance (Or the sociology paper no one will ever write.)</h3>
+
+<p>In terms of personality, software engineering has some remarkably awkward and humorous traits. In most situations it seems as if there are very few ways technologists are viewed:</p>
+
+<ul>
+<li>Venerated technology genius: All the people who know more about anything than you do, so long as you have no real experience with them. They will most definitely tell you upon direct questioning, that they are not particularly smart, they&rsquo;ve just been &ldquo;doing this for a while&rdquo;, &ldquo;have read a lot of books&rdquo; or &ldquo;know a lot of smart people, and just seem better for it&rdquo;. Often this presents itself as a near frustrating amount of self deprecation.</li>
+<li>Assholes : Do you have strong opinions about the technology you spend your entire professional life working on (or explaining to people)? Do you disagree with nearly anyone, ever (or probably everyone, always)? Do you struggle with the use of words like exactly, equivalent and impossible? Are you not only capable, but think it entirely normal to have impassioned arguments with another person, and once it&rsquo;s resolved (usually agreed to be abandoned) move on as if no argument took place? Guess what, you&rsquo;re almost certainly considered an asshole by at least some large group of people you work with.</li>
+<li>Useless: If you haven&rsquo;t written a number of books, given countless talks, authored a number of surprisingly useful open source projects or founded a successful software company and somehow still managed to not collect a list of people who think you&rsquo;re an asshole you likely aren&rsquo;t doing anything. (In that case, someone probably thinks you&rsquo;re an asshole for that.)</li>
+</ul>
+
+
+<h1>What: Maybe nothing more than a proving ground for presentation topics. Maybe a place to complain about technical and non-technical problems.</h1>
+
+<h1>Why: In short, I gave a talk at a community event, and it opened the flood gates of requests to talk at other events. I repeat myself very frequently based on my poor memory for what I&rsquo;ve already said to particular people. As such, I don&rsquo;t feel like anyone benefits from me giving the same talk multiple times, particularly if it&rsquo;s been recorded and hosted somewhere. That sounds great, but I don&rsquo;t like making slide decks, and often need to sort through ideas in long form. My wife doesn&rsquo;t appreciate the nuances of very long discussions on the merits of pry.</h1>
+]]></content>
+  </entry>
   
 </feed>
