@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "$git init blog: What's in a name"
+title: "$git init blog: What's in a name?"
 date: 2015-05-17 20:59:15 -0400
 comments: true
 footer: true
 sharing: true
 ---
 
-## Disclaiming your irritating with my tangents:
+## Disclaiming your irritation with my tangents:
 
 I consider it a fair assumption that anyone who has found themselves in a position to be reading this, has likely been led here by the influence of hearing me speak perviously, or recommendation of someone who has. Because of that, I am comfortable exposing you to the rambling nature of my thoughts.
 
