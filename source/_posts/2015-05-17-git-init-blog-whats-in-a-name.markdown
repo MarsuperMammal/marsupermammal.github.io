@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "$ git init blog: What's in a name"
+title: "$git init blog: What's in a name"
 date: 2015-05-17 20:59:15 -0400
 comments: true
 footer: true
