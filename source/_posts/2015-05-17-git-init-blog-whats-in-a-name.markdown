@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "# git init blog: What's in a name"
+title: "$ git init blog: What's in a name"
 date: 2015-05-17 20:59:15 -0400
 comments: true
 footer: true
 sharing: true
 ---
 
-# Disclaiming your irritating with my tangents:
+## Disclaiming your irritating with my tangents:
 
 I consider it a fair assumption that anyone who has found themselves in a position to be reading this, has likely been led here by the influence of hearing me speak perviously, or recommendation of someone who has. Because of that, I am comfortable exposing you to the rambling nature of my thoughts.
 
-# The Interrogative Particles:
+## The Interrogative Particles:
 
 Who: In short, no one of consequence. Historically I've worked as a systems administrator and professional services engineer. Early on I learned that my job had little to nothing to do with what I already knew, and considerably more to do with how I reacted to discovering more things I did not know.
 
-## Anthropomorphizing One's self:
-### The engineer's inner struggle between humility and arrogance (Or the sociology paper no one will ever write.)
+### Anthropomorphizing One's self:
+#### The engineer's inner struggle between humility and arrogance (Or the sociology paper no one will ever write.)
 
 In terms of personality, software engineering has some remarkably awkward and humorous traits. In most situations it seems as if there are very few ways technologists are viewed:
 
